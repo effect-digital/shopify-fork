@@ -1,6 +1,6 @@
 {
-  "name": "donutdan4114/shopify",
-  "description": "Shopify PHP SDK to interact with the Shopify API.",
+  "name": "effect-digital/shopify-fork",
+  "description": "Shopify PHP SDK to interact with the Shopify API. - Forked from donutdan4114/shopify",
   "require": {
     "guzzlehttp/guzzle": "^7.0",
     "php": "^8.1"
